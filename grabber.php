@@ -2,9 +2,9 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = ""; //CLIENT ID HERE
-$client_secret = ""; //CLIENT SECRET HERE
-$redirect      = ""; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
+$client_id     = ""; 906810224197898240
+$client_secret = ""; l3H6K_eeVcYLaCprYnTVvhR50b2kT5iU
+$redirect      = ""; C:\Users\Drake\Downloads\krnl\ip
 
 function get_ip_address()
 {
